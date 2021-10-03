@@ -1,3 +1,6 @@
+# this is NOT my own work, all material from react course by Cory House 
+
+
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
